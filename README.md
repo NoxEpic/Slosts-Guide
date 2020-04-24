@@ -1,1 +1,4 @@
 # Slosts-Guide
+vis du vil download appen til apple skal du gå ind og open /xr/xr.xcodeproj/ med xcode og få fandt i en apple developer key Guide til det: https://developer.apple.com/videos/play/wwdc2014/608/ 
+
+vis du vil have det på android skal du have nogle sdk andoid?
