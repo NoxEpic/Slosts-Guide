@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/xr pil.unity
+    path: Assets/Scenes/xr pil.unity
     guid: cea3ecdb3bcfb48abab72375f12f8b9e
   m_configObjects: {}
