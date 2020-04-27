@@ -5,8 +5,9 @@ denne app er ikke bygget til android da der er brugt ARkit som er spesifikt lave
 
 Vis det skulle have været til android skulle hele systemet være bygget men ARcore Som suppoter android 7.0
 
-map
+mapet
 https://studio.mapbox.com/styles/noxepicgaming/ck99jvb9m0edh1inslhpnt73w/edit/#18.12/55.713051/11.703044/-57.6/33
+vi brugte til at lave koordinaderne i det her html https://github.com/NoxEpic/Slots-Guiden/blob/master/index.html
 
 Der er to du kan få appen måder gennem Unity-iPhone.xcodeproj.zip men vis det ikke virker skal du selv byge det til en app
 
