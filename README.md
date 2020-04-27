@@ -1,4 +1,4 @@
-# Slosts-Guide
+# Slots-Guiden
 vis du vil download appen til apple skal du gå ind og open xr.xcodeproj med xcode og få fandt i en apple developer key Guide til det: https://developer.apple.com/videos/play/wwdc2014/608/ 
 
 denne app er ikke bygget til android da der er brugt ARkit som er spesifikt lavet til iOS 11.0 systemer
